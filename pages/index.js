@@ -7,7 +7,7 @@ function HomePage() {
       <Head>
         <title>Ana Sayfa</title>
       </Head>
-      <h1> Welcome to Index.js!</h1>
+      <h1>İlk web sitem!</h1>
 
       <style jsx>{``}</style>
     </Layout>
